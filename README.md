@@ -17,4 +17,7 @@ python main.py
 
 ## Bugs and issues
 - [ ] cannot differentiate stickers, emoji, and theme will fix in next release
-- [?] Feature ? (can input only sticker id)
+- [x] Feature ? (can input only sticker id)
+
+## Images
+![Screenshot](https://raw.githubusercontent.com/j3rr7/Line-Sticker-Downloader/master/images/ss.png)
