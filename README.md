@@ -1,4 +1,4 @@
-# Line Sticker StickerDownloader with GUI
+# Line StickerDownloader with GUI
  
 Simple implementation using python and dearpygui to download stickers from line.
 
