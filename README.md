@@ -3,17 +3,44 @@
 # Line-Downloader
 Simple Line Downloader with dearpygui and httpx
 
-## Changelog
+## Changelog 
 - [x] Recoded
 - [x] Source Code Released
+- [x] Convert apng to gif
+- [x] zip extractor
+- [ ] Theme Downloader
+- [ ] Emoji Downloader
+
 
 ## Requirements
 - [Python 3.8+](https://www.python.org/downloads/)
 - [httpx](https://www.python-httpx.org/)
 - [DearPyGui](https://dearpygui.readthedocs.io/en/latest/)
 
-## License
+## Installation 
+```bash
+pip install -r requirements.txt
+python main.py
+```
 
+## File Structure
+```
+...
+├── fonts
+├── output # downloaded files 
+├── icon.ico
+├── main.py
+├── download.py
+├── utils.py
+...
+```
+## Image
+### Idle
+![](/images/image-1.png)
+### Downloading
+![](/images/image-2.png)
+
+## License
 ```
 MIT License
 
